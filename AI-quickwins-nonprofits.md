@@ -252,6 +252,7 @@ Not every pilot will work, and that is fine. The important thing is to learn qui
 
 If you want to go deeper into any of these strategies, the full guide includes detailed examples, ready-to-use prompts and specific recommendations for each one:
 
-👉 [Full guide: AI Quick-Wins for Nonprofit Organizations](https://nonprofit.top/ai-quick-wins-nonprofits/)
+👉 [Full guide: AI Quick-Wins for Nonprofit Organizations](https://nonprofit.top/ai-quick-wins-nonprofits/?ref=p2)
+
 
 
