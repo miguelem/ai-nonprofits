@@ -1,4 +1,4 @@
-# **18 AI Strategies to Multiply Your NGO's Impact**
+# **18 AI Quickwins to Multiply Your Nonprofit's Impact**
 
 Artificial intelligence is no longer a technology of the future, nor a privilege reserved for large organizations with big budgets. Today there are free or very affordable tools that any organization can use to save time, improve communications and expand social impact.
 
@@ -252,6 +252,6 @@ Not every pilot will work, and that is fine. The important thing is to learn qui
 
 If you want to go deeper into any of these strategies, the full guide includes detailed examples, ready-to-use prompts and specific recommendations for each one:
 
-👉 [Full guide: Quick-Win AI Strategies for NGOs](https://ongs.top/estrategias-rapidas-ia/)
+👉 [Full guide: AI Quick-Wins for Nonprofit Organizations](https://nonprofit.top/ai-quick-wins-nonprofits/)
 
-And if you would prefer personalized help implementing AI in your organization, you can request a free consultation with our team.
+
