@@ -2,4 +2,6 @@
 
 👉 [AI quick-wins for nonprofits](https://github.com/miguelem/ai-nonprofits/blob/main/AI-quickwins-nonprofits.md)
 
+👉 [AI automation for nonprofits](https://github.com/miguelem/ai-nonprofits/blob/main/ai-automation-nonprofits.md)
+
 👉 [AI tools & tactics for Google Ad Grants](https://github.com/miguelem/ai-nonprofits/blob/main/ai-google-ad-grants.md)
